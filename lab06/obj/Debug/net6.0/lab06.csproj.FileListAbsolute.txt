@@ -1,0 +1,17 @@
+C:\projects\C#\lab06\lab06\bin\Debug\net6.0\lab06.exe
+C:\projects\C#\lab06\lab06\bin\Debug\net6.0\lab06.deps.json
+C:\projects\C#\lab06\lab06\bin\Debug\net6.0\lab06.runtimeconfig.json
+C:\projects\C#\lab06\lab06\bin\Debug\net6.0\lab06.dll
+C:\projects\C#\lab06\lab06\bin\Debug\net6.0\lab06.pdb
+C:\projects\C#\lab06\lab06\obj\Debug\net6.0\lab06.csproj.AssemblyReference.cache
+C:\projects\C#\lab06\lab06\obj\Debug\net6.0\lab06.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\lab06\lab06\obj\Debug\net6.0\lab06.AssemblyInfoInputs.cache
+C:\projects\C#\lab06\lab06\obj\Debug\net6.0\lab06.AssemblyInfo.cs
+C:\projects\C#\lab06\lab06\obj\Debug\net6.0\lab06.csproj.CoreCompileInputs.cache
+C:\projects\C#\lab06\lab06\obj\Debug\net6.0\lab06.dll
+C:\projects\C#\lab06\lab06\obj\Debug\net6.0\refint\lab06.dll
+C:\projects\C#\lab06\lab06\obj\Debug\net6.0\lab06.pdb
+C:\projects\C#\lab06\lab06\obj\Debug\net6.0\lab06.genruntimeconfig.cache
+C:\projects\C#\lab06\lab06\obj\Debug\net6.0\ref\lab06.dll
+C:\projects\C#\lab06\lab06\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\projects\C#\lab06\lab06\obj\Debug\net6.0\lab06.csproj.CopyComplete
